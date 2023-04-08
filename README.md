@@ -1,5 +1,5 @@
 # Todo-List-App
-track of their tasks and to-do items. It is designed to help users organize their daily activities, prioritize their tasks, and ensure that they don't forget anything important.
+A Todo List App is a digital application that helps users keep track of their tasks and to-do items. It is designed to help users organize their daily activities, prioritize their tasks, and ensure that they don't forget anything important.
 
 A typical Todo List App allows users to create new tasks, set due dates, and assign priorities or categories to each task. Users can also mark tasks as complete or incomplete and view their progress over time. Some Todo List Apps may also provide additional features such as reminders, notifications, and the ability to share tasks with others.
 
